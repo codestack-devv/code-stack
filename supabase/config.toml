@@ -1,0 +1,10 @@
+project_id = "nujtbcrpnseyuygocmvj"
+
+[functions.send-contact-email]
+verify_jwt = false
+
+[functions.send-newsletter-email]
+verify_jwt = false
+
+[functions.generate-blog]
+verify_jwt = true
